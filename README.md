@@ -18,4 +18,4 @@
 -
 канала telegram и отправлять им массовые сообщения.
 -
-[](https://skr.sh/i/150723/HZ0wYRQH.jpg)
+![](https://skr.sh/i/150723/HZ0wYRQH.jpg)
