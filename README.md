@@ -18,4 +18,4 @@
 -
 канала telegram и отправлять им массовые сообщения.
 -
-[](http://telegramsender.com/demos/lap2.png)
+[foto](http://telegramsender.com/demos/lap2.png)
